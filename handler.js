@@ -819,7 +819,6 @@ global.waifu = [
 'https://i.pinimg.com/originals/0b/6c/18/0b6c18e1d78b8a21f5265068a7069db7.jpg',
 'https://i.pinimg.com/originals/66/2a/82/662a82a986df49f1d5650e9948a2f250.jpg',
 'https://i.pinimg.com/originals/13/1f/76/131f76a81e9c4d6a70c11d487b909650.jpg'
-'https://i.pinimg.com/originals/3a/d7/6a/3ad76a427d41ae7fdc03f564279520e4.jpg',
 'https://i.pinimg.com/originals/4a/e3/e5/4ae3e5592cd40ffa741e128eee83329d.jpg',
 'https://i.pinimg.com/originals/75/6d/84/756d84c77e09c5db67056894d1fef5cc.jpg',
 'https://i.pinimg.com/originals/49/a1/10/49a1105d65c530e7077ed13f48d74986.jpg',
