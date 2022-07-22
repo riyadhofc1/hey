@@ -9,12 +9,13 @@ ini adalah scprit marie bot
 
 ------ 
 # CARA INSTALL 
-> termux-setup-storage
-> cd /sdcard
+> termux-setup-storage &&
+> cd /sdcard &&
 > git clone https://github.com/LionSuzune/Marie-Rose.git
-> cd Marie-Rose
-> npm install
-> rm -rf session.data.json
+> cd Marie-Rose &&
+> npm install && 
+> rm -rf session.data.json &&
+> npm start
 ------
 
 ------ 
