@@ -7,35 +7,35 @@
 let handler = async (m, { conn, usedPrefix }) => {
     let tqto = `*BIG THANKS TO*
 
-Nurutomo: 
+📮 Nurutomo: 
 https://github.com/Nurutomo
-Istikmal: 
+📮 Istikmal: 
 https://github.com/BochilGaming
-Ariffb: 
+📮 Ariffb: 
 https://github.com/Ariffb25
-Aguz Familia:
+📮 Aguz Familia:
 https://github.com/FokusDotId
-Amelia Lisa:
+📮 Amelia Lisa:
 https://github.com/Ameliascrf
-Aniq12
+📮 Aniq12
 https://github.com/aniq12
-Ilman: 
+📮 Ilman: 
 https://github.com/ilmanhdyt
-Amirul: 
+📮 Amirul: 
 https://github.com/amiruldev20
-Sasha
+📮 Sasha
 https://github.com/LyliaSasha
-Uzui
+📮 Uzui
 https://github.com/LionSuzune
-IkawaTeam
+📮 IkawaTeam
 https://github.com/IkawaTeam
-Irwan:
+📮 Irwan:
 https://github.com/irwanx
-Rasel:
+📮 Rasel:
 https://github.com/raselcomel
-Mursid:
+📮 Mursid:
 https://github.com/Botwa021
-Jarot:
+📮 Jarot:
 https://github.com/Alpiii22
 
 \`\`\`${conn.user.name}\`\`\`
