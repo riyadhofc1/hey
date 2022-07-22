@@ -4,7 +4,7 @@
 <img src="https://telegra.ph/file/5759c15431df37164371e.png" width="200" height="200"/>
 
 
-ini adalah scprit marie bot
+ini adalah scprit marie bot, hapus session dlu ya
 ------
 
 ------ 
