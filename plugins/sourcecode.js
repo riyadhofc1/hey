@@ -6,10 +6,9 @@ let handler = async (m, { conn }) => {
     // Kalo ngeyel gk bakal gw up sc lgi.
     
     let txt = `
-Bot ini menggunakan script github
-
-Mau scriptnya chat owner wa.me/6285795586847
-Script original By Family-MD
+Scprit Bot Mengunakan https://github.com/LionSuzune/Marie-Rose
+Jangan Lupa start🌟
+Thanks..
 `
      conn.reply(m.chat, txt, m)
 }
