@@ -8,7 +8,7 @@ let handler = async (m, { conn }) => {
     let txt = `
 Scprit Bot Mengunakan https://github.com/LionSuzune/Marie-Rose
 Jangan Lupa start🌟
-Thanks..
+Thanks.. ^^
 `
      conn.reply(m.chat, txt, m)
 }
