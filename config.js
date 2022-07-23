@@ -36,12 +36,12 @@ global.wait = '_*𝒔𝒆𝒅𝒂𝒏𝒈 𝒅𝒊 𝒑𝒓𝒐𝒔𝒆𝒔...*_
 global.eror = '_*𝒎𝒂𝒂𝒇 𝒔𝒆𝒓𝒗𝒆𝒓 𝒆𝒓𝒓𝒐𝒓...*_'
 
 //========Url Template Buttons=========//
-global.dtu = 'ɢʀᴜᴘ ᴍᴀʀɪᴇ'
-global.urlnya = "https://chat.whatsapp.com/BpuUbEx8niML0pmEqkbp8L"
+global.dtu = 'Group Emilia'
+global.urlnya = "https://chat.whatsapp.com/EOoPdP0tepKAT19ZuWT78O"
 
 //============= callButtons =============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '62 857-9558-6847'
+global.phn = '62 896-7513-4806'
 
 //============= Games ================//
 global.benar = '_*Benar*_'
